@@ -1,0 +1,6 @@
+{
+  "name": "Mindful Money",
+  "description": "A mindful expense tracker that identifies 'invisible leaks' using the Ouch Factor and 48-hour rule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
